@@ -1,2 +1,0 @@
-# dotnetrepo
-createandtest
