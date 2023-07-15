@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnetrepo\\testproject\\testproject\\testproject.csproj",
+      "projectUniqueName": "D:\\dotnetrepo\\dotnetrepo\\testproject\\testproject.csproj",
       "projectName": "testproject",
-      "projectPath": "D:\\dotnetrepo\\testproject\\testproject\\testproject.csproj",
+      "projectPath": "D:\\dotnetrepo\\dotnetrepo\\testproject\\testproject.csproj",
       "packagesPath": "C:\\Users\\Pasindu\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnetrepo\\testproject\\testproject\\obj\\",
+      "outputPath": "D:\\dotnetrepo\\dotnetrepo\\testproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pasindu\\AppData\\Roaming\\NuGet\\NuGet.Config",
