@@ -45,4 +45,4 @@ steps:
 - task: PublishBuildArtifacts@1
   inputs:
     TargetPath: '$(Build.SourcesDirectory)/testproject/template'
-    ArtifactName: 'template-artifacts'
+    ArtifactName: 'template-artifacts12'
