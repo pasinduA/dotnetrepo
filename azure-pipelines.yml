@@ -44,5 +44,5 @@ steps:
 
 - task: PublishBuildArtifacts@1
   inputs:
-    TargetPath: '$(Build.ArtifactStagingDirectory)/testproject/Template'
+    TargetPath: '$(Build.ArtifactStagingDirectory)/testproject/template'
     ArtifactName: 'template-artifacts'
