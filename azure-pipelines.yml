@@ -42,7 +42,7 @@ steps:
     targetPath: '$(Build.ArtifactStagingDirectory)' 
     artifactName: 'myWebsiteName'
 
-- task: PublishBuildArtifacts@1
+- task: PublishPipelineArtifact@1
   inputs:
-    TargetPath: '$(Build.SourcesDirectory)/testproject/template'
-    ArtifactName: 'template-artifacts12'
+    targetPath: '$(Build.SourcesDirectory)/testproject/template'
+    artifactName: 'template-artifacts12'
