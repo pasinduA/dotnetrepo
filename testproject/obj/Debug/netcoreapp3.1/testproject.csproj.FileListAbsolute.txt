@@ -75,3 +75,4 @@ D:\dotnetrepo\dotnetrepo\testproject\obj\Debug\netcoreapp3.1\testproject.pdb
 D:\dotnetrepo\dotnetrepo\testproject\obj\Debug\netcoreapp3.1\testproject.genruntimeconfig.cache
 D:\dotnetrepo\dotnetrepo\testproject\obj\Debug\netcoreapp3.1\testproject.csproj.CopyComplete
 D:\dotnetrepo\dotnetrepo\testproject\bin\Debug\netcoreapp3.1\template\main.json
+D:\dotnetrepo\dotnetrepo\testproject\bin\Debug\netcoreapp3.1\template\01-storage.json
