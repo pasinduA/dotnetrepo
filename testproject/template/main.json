@@ -27,7 +27,7 @@
         "[resourceId('Microsoft.Web/serverfarms', 'plan554435')]"
       ],
       "properties": {
-        "name": "demoapp544345",
+        "name": "demoapp5443454",
         "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', 'plan554435')]"
       }
     }
